@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeBuilder.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b91e744780c885c922863166a2b9e39e6eae0e47")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeBuilder.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeBuilder.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
