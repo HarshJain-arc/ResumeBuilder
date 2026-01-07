@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ResumeBuilder.web/1.0.0": {
+        "dependencies": {
+          "ResumeBuilder.Core": "1.0.0",
+          "ResumeBuilder.Data": "1.0.0",
+          "ResumeBuilder.Services": "1.0.0"
+        },
+        "runtime": {
+          "ResumeBuilder.web.dll": {}
+        }
+      },
+      "ResumeBuilder.Core/1.0.0": {
+        "runtime": {
+          "ResumeBuilder.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ResumeBuilder.Data/1.0.0": {
+        "runtime": {
+          "ResumeBuilder.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ResumeBuilder.Services/1.0.0": {
+        "runtime": {
+          "ResumeBuilder.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResumeBuilder.web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBuilder.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBuilder.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBuilder.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

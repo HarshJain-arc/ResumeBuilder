@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResumeBuilder.Core\ResumeBuilder.Core.csproj" />
+    <ProjectReference Include="..\ResumeBuilder.Data\ResumeBuilder.Data.csproj" />
+    <ProjectReference Include="..\ResumeBuilder.Services\ResumeBuilder.Services.csproj" />
+  </ItemGroup>
+
+</Project>

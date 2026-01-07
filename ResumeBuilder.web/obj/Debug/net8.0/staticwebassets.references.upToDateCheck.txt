@@ -1,0 +1,3 @@
+C:\Users\hhars\source\repos\HarshJain-arc\ResumeBuilder\ResumeBuilder.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hhars\source\repos\HarshJain-arc\ResumeBuilder\ResumeBuilder.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hhars\source\repos\HarshJain-arc\ResumeBuilder\ResumeBuilder.Services\obj\Debug\net8.0\staticwebassets.build.json
